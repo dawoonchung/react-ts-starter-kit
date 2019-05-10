@@ -1,4 +1,4 @@
-# An opinionated React starter kit.
+# An opinionated React starter kit with Typescript.
 This package was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 It includes basic configurations for React and React Router.
